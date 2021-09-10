@@ -1,6 +1,14 @@
 Multiplicação simples
 
 console.log(`PROD = ${+gets() * +gets()}`);
+----------------//-----------------------
+Inicializadores de objetos.
+
+  let g1 = +gets();
+  let g2 = +gets();
+  _consumo = {g1};
+  __consumo = {g2};
+  console.log(`PROD = ${_consumo.g1 * __consumo.g2}`);
 
 ---------------//------------------------
 
