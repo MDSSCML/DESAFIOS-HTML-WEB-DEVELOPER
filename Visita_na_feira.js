@@ -3,7 +3,7 @@ Desafio : Visita a feira
 //Código modificado
 
 const  [Linha,linha] = gets().split(" ");
-print(`X = ${+(Linha) + +(linha)}`);
+print(`X = ${~~(Linha) + ~~(linha)}`);
 
 
 
