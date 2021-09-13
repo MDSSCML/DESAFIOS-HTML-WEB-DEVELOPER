@@ -13,7 +13,6 @@ Inicializadores de objetos.
 ---------------//------------------------
 
 Código feito usando Obejct.create();
-Lembrando que na plataforma não aceita.
 
  multiplicar = {
   
